@@ -1,0 +1,26 @@
+{
+  "name": "intrastat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolyh/intrastat.git"
+  },
+  "author": "Arnaud Joly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolyh/intrastat/issues"
+  },
+  "homepage": "https://github.com/jolyh/intrastat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "json": "^9.0.6",
+    "mongoose": "^5.2.5",
+    "path": "^0.12.7"
+  }
+}
